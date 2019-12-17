@@ -1,0 +1,23 @@
+{
+  "name": "Redux",
+  "version": "1.0.0",
+  "description": "Learning use of Redux library with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srijanc/Redux.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srijanc/Redux/issues"
+  },
+  "homepage": "https://github.com/srijanc/Redux#readme",
+  "dependencies": {
+    "redux": "^4.0.4"
+  }
+}
